@@ -95,7 +95,7 @@ You can run this solution in VS Code Web. The button will open a web-based VS Co
     - Overwrite with versions from template
     - Keep my existing files unchanged
     ```
-    Choose “**Keep my existing files unchanged**” and provide a unique environment name when prompted.
+    Choose “**Overwrite with versions from template**” and provide a unique environment name when prompted.
  
 6. Continue with the [deploying steps](#deploying-with-azd).
 
