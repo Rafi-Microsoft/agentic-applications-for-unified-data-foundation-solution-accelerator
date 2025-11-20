@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 echo "Started the agent creation script setup..."
-
+# comment for test branch - vscodeweb
 # Variables
 projectEndpoint="$1"
 solutionName="$2"
